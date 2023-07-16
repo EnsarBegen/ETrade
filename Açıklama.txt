@@ -1,0 +1,9 @@
+Merhaba hocam,
+ 
+    LetGo, Sahibinden konseptinde kullanıcının sadece ürün bilgilerini ve satıcı bilgilerini görebildiği bir e ticaret sitesi yaptım. Şimdilik temelini attım diyebilirim. HTML VE CSS kodlarında eksiklikler var zamanım kalmadıgı için projemi bu şekilde atıyorum. Zamanla geliştirip tam manasıyla bitirdikten sonra tekrar sizinle paylaşacağım :)
+
+Sitede genel olarak yapılabilecekler,
+
+Kullanıcı girişi ve kullanıcı kaydı.
+Site ziyaretcileri sadece ürünleri ve kategorileri listeleyebilir ve ürünleri görebilir. 
+Siteye üye olan kullanıcılar farklı kategorilere ürün yükleyebilir ekledikleri ürünleri görüntüleyebilir, güncelleyebilir veya ekledikleri ürünleri silebilir. 
